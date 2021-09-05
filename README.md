@@ -1,5 +1,0 @@
-# registroIdentificacion
-
-holaau
-hi
-prueba
